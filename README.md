@@ -27,4 +27,4 @@ Projeto de site para ouvir músicas.
 </table>
 
 ## :dart: Status do projeto
-* Em desenvolvimento.
+* Em desenvolvimento :construction_worker: :construction:.
