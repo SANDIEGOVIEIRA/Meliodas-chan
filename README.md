@@ -1,4 +1,4 @@
-<h1 align="center">:file_cabinet: Music Channel</h1>
+<h1 align="center">:cd: :musical_note: Music Channel</h1>
 
 ## :memo: Descrição
 Projeto de site para ouvir músicas.
